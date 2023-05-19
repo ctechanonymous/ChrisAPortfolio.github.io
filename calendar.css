@@ -1,0 +1,46 @@
+.body
+{
+	width: 600px;
+	height: 400px;
+	text-align: center;
+	border: 1px solid black;
+	box-shadow: 10px 10px 5px gray;
+	font-family: courier;
+	background-color: beige;
+}
+
+body
+{
+	background-color: steelblue;
+}
+
+.na
+{
+color: red;
+}
+
+.active
+{
+	background-color: pink;
+}
+
+button
+{
+	border-radius: 30px;
+	height: 40px;
+	transition: 1s;
+}
+
+button:hover
+{
+	background-color: rgba(255, 156, 98, .7);
+	transform: scale(1.3);
+}
+
+a
+{
+	text-decoration: none;
+	font-family: courier;
+	font-weight: bold;
+	color: black;
+}
